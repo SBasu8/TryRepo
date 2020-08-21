@@ -1,0 +1,11 @@
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Day2_Demo1_Collection\Day2_Demo5_DeligateSimple\bin\Debug\netcoreapp3.1\Day2_Demo5_DeligateSimple.exe
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Day2_Demo1_Collection\Day2_Demo5_DeligateSimple\bin\Debug\netcoreapp3.1\Day2_Demo5_DeligateSimple.deps.json
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Day2_Demo1_Collection\Day2_Demo5_DeligateSimple\bin\Debug\netcoreapp3.1\Day2_Demo5_DeligateSimple.runtimeconfig.json
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Day2_Demo1_Collection\Day2_Demo5_DeligateSimple\bin\Debug\netcoreapp3.1\Day2_Demo5_DeligateSimple.runtimeconfig.dev.json
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Day2_Demo1_Collection\Day2_Demo5_DeligateSimple\bin\Debug\netcoreapp3.1\Day2_Demo5_DeligateSimple.dll
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Day2_Demo1_Collection\Day2_Demo5_DeligateSimple\bin\Debug\netcoreapp3.1\Day2_Demo5_DeligateSimple.pdb
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Day2_Demo1_Collection\Day2_Demo5_DeligateSimple\obj\Debug\netcoreapp3.1\Day2_Demo5_DeligateSimple.csprojAssemblyReference.cache
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Day2_Demo1_Collection\Day2_Demo5_DeligateSimple\obj\Debug\netcoreapp3.1\Day2_Demo5_DeligateSimple.AssemblyInfoInputs.cache
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Day2_Demo1_Collection\Day2_Demo5_DeligateSimple\obj\Debug\netcoreapp3.1\Day2_Demo5_DeligateSimple.AssemblyInfo.cs
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Day2_Demo1_Collection\Day2_Demo5_DeligateSimple\obj\Debug\netcoreapp3.1\Day2_Demo5_DeligateSimple.dll
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Day2_Demo1_Collection\Day2_Demo5_DeligateSimple\obj\Debug\netcoreapp3.1\Day2_Demo5_DeligateSimple.pdb

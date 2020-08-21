@@ -1,0 +1,11 @@
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1_BasicOops\Demo3_Abstract\bin\Debug\netcoreapp3.1\Demo3_Abstract.exe
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1_BasicOops\Demo3_Abstract\bin\Debug\netcoreapp3.1\Demo3_Abstract.deps.json
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1_BasicOops\Demo3_Abstract\bin\Debug\netcoreapp3.1\Demo3_Abstract.runtimeconfig.json
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1_BasicOops\Demo3_Abstract\bin\Debug\netcoreapp3.1\Demo3_Abstract.runtimeconfig.dev.json
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1_BasicOops\Demo3_Abstract\bin\Debug\netcoreapp3.1\Demo3_Abstract.dll
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1_BasicOops\Demo3_Abstract\bin\Debug\netcoreapp3.1\Demo3_Abstract.pdb
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1_BasicOops\Demo3_Abstract\obj\Debug\netcoreapp3.1\Demo3_Abstract.csprojAssemblyReference.cache
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1_BasicOops\Demo3_Abstract\obj\Debug\netcoreapp3.1\Demo3_Abstract.AssemblyInfoInputs.cache
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1_BasicOops\Demo3_Abstract\obj\Debug\netcoreapp3.1\Demo3_Abstract.AssemblyInfo.cs
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1_BasicOops\Demo3_Abstract\obj\Debug\netcoreapp3.1\Demo3_Abstract.dll
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1_BasicOops\Demo3_Abstract\obj\Debug\netcoreapp3.1\Demo3_Abstract.pdb

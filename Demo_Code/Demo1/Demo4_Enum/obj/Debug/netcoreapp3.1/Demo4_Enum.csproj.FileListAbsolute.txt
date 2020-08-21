@@ -1,0 +1,11 @@
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo4_Enum\bin\Debug\netcoreapp3.1\Demo4_Enum.exe
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo4_Enum\bin\Debug\netcoreapp3.1\Demo4_Enum.deps.json
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo4_Enum\bin\Debug\netcoreapp3.1\Demo4_Enum.runtimeconfig.json
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo4_Enum\bin\Debug\netcoreapp3.1\Demo4_Enum.runtimeconfig.dev.json
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo4_Enum\bin\Debug\netcoreapp3.1\Demo4_Enum.dll
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo4_Enum\bin\Debug\netcoreapp3.1\Demo4_Enum.pdb
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo4_Enum\obj\Debug\netcoreapp3.1\Demo4_Enum.csprojAssemblyReference.cache
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo4_Enum\obj\Debug\netcoreapp3.1\Demo4_Enum.AssemblyInfoInputs.cache
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo4_Enum\obj\Debug\netcoreapp3.1\Demo4_Enum.AssemblyInfo.cs
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo4_Enum\obj\Debug\netcoreapp3.1\Demo4_Enum.dll
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo4_Enum\obj\Debug\netcoreapp3.1\Demo4_Enum.pdb

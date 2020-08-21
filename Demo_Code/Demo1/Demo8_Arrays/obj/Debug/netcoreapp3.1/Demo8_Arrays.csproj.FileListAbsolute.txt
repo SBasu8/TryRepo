@@ -1,0 +1,10 @@
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo8_Arrays\bin\Debug\netcoreapp3.1\Demo8_Arrays.exe
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo8_Arrays\bin\Debug\netcoreapp3.1\Demo8_Arrays.deps.json
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo8_Arrays\bin\Debug\netcoreapp3.1\Demo8_Arrays.runtimeconfig.json
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo8_Arrays\bin\Debug\netcoreapp3.1\Demo8_Arrays.runtimeconfig.dev.json
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo8_Arrays\bin\Debug\netcoreapp3.1\Demo8_Arrays.dll
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo8_Arrays\bin\Debug\netcoreapp3.1\Demo8_Arrays.pdb
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo8_Arrays\obj\Debug\netcoreapp3.1\Demo8_Arrays.AssemblyInfoInputs.cache
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo8_Arrays\obj\Debug\netcoreapp3.1\Demo8_Arrays.AssemblyInfo.cs
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo8_Arrays\obj\Debug\netcoreapp3.1\Demo8_Arrays.dll
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo8_Arrays\obj\Debug\netcoreapp3.1\Demo8_Arrays.pdb

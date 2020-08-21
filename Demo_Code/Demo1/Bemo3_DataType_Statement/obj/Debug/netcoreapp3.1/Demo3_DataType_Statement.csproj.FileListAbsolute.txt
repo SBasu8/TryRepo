@@ -1,0 +1,11 @@
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Bemo3_DataType_Statement\bin\Debug\netcoreapp3.1\Demo3_DataType_Statement.exe
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Bemo3_DataType_Statement\bin\Debug\netcoreapp3.1\Demo3_DataType_Statement.deps.json
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Bemo3_DataType_Statement\bin\Debug\netcoreapp3.1\Demo3_DataType_Statement.runtimeconfig.json
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Bemo3_DataType_Statement\bin\Debug\netcoreapp3.1\Demo3_DataType_Statement.runtimeconfig.dev.json
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Bemo3_DataType_Statement\bin\Debug\netcoreapp3.1\Demo3_DataType_Statement.dll
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Bemo3_DataType_Statement\bin\Debug\netcoreapp3.1\Demo3_DataType_Statement.pdb
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Bemo3_DataType_Statement\obj\Debug\netcoreapp3.1\Demo3_DataType_Statement.csprojAssemblyReference.cache
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Bemo3_DataType_Statement\obj\Debug\netcoreapp3.1\Demo3_DataType_Statement.AssemblyInfoInputs.cache
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Bemo3_DataType_Statement\obj\Debug\netcoreapp3.1\Demo3_DataType_Statement.AssemblyInfo.cs
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Bemo3_DataType_Statement\obj\Debug\netcoreapp3.1\Demo3_DataType_Statement.dll
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Bemo3_DataType_Statement\obj\Debug\netcoreapp3.1\Demo3_DataType_Statement.pdb

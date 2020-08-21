@@ -1,0 +1,11 @@
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo1\bin\Debug\netcoreapp3.1\Demo1.exe
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo1\bin\Debug\netcoreapp3.1\Demo1.deps.json
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo1\bin\Debug\netcoreapp3.1\Demo1.runtimeconfig.json
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo1\bin\Debug\netcoreapp3.1\Demo1.runtimeconfig.dev.json
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo1\bin\Debug\netcoreapp3.1\Demo1.dll
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo1\bin\Debug\netcoreapp3.1\Demo1.pdb
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo1\obj\Debug\netcoreapp3.1\Demo1.csprojAssemblyReference.cache
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo1\obj\Debug\netcoreapp3.1\Demo1.AssemblyInfoInputs.cache
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo1\obj\Debug\netcoreapp3.1\Demo1.AssemblyInfo.cs
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo1\obj\Debug\netcoreapp3.1\Demo1.dll
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo1\obj\Debug\netcoreapp3.1\Demo1.pdb

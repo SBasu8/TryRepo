@@ -1,0 +1,11 @@
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo6_Loop\bin\Debug\netcoreapp3.1\Demo6_Loop.exe
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo6_Loop\bin\Debug\netcoreapp3.1\Demo6_Loop.deps.json
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo6_Loop\bin\Debug\netcoreapp3.1\Demo6_Loop.runtimeconfig.json
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo6_Loop\bin\Debug\netcoreapp3.1\Demo6_Loop.runtimeconfig.dev.json
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo6_Loop\bin\Debug\netcoreapp3.1\Demo6_Loop.dll
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo6_Loop\bin\Debug\netcoreapp3.1\Demo6_Loop.pdb
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo6_Loop\obj\Debug\netcoreapp3.1\Demo6_Loop.csprojAssemblyReference.cache
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo6_Loop\obj\Debug\netcoreapp3.1\Demo6_Loop.AssemblyInfoInputs.cache
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo6_Loop\obj\Debug\netcoreapp3.1\Demo6_Loop.AssemblyInfo.cs
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo6_Loop\obj\Debug\netcoreapp3.1\Demo6_Loop.dll
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo6_Loop\obj\Debug\netcoreapp3.1\Demo6_Loop.pdb

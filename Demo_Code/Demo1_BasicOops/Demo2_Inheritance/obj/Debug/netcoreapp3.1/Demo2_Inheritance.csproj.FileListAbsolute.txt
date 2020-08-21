@@ -1,0 +1,11 @@
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1_BasicOops\Demo2_Inheritance\bin\Debug\netcoreapp3.1\Demo2_Inheritance.exe
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1_BasicOops\Demo2_Inheritance\bin\Debug\netcoreapp3.1\Demo2_Inheritance.deps.json
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1_BasicOops\Demo2_Inheritance\bin\Debug\netcoreapp3.1\Demo2_Inheritance.runtimeconfig.json
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1_BasicOops\Demo2_Inheritance\bin\Debug\netcoreapp3.1\Demo2_Inheritance.runtimeconfig.dev.json
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1_BasicOops\Demo2_Inheritance\bin\Debug\netcoreapp3.1\Demo2_Inheritance.dll
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1_BasicOops\Demo2_Inheritance\bin\Debug\netcoreapp3.1\Demo2_Inheritance.pdb
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1_BasicOops\Demo2_Inheritance\obj\Debug\netcoreapp3.1\Demo2_Inheritance.csprojAssemblyReference.cache
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1_BasicOops\Demo2_Inheritance\obj\Debug\netcoreapp3.1\Demo2_Inheritance.AssemblyInfoInputs.cache
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1_BasicOops\Demo2_Inheritance\obj\Debug\netcoreapp3.1\Demo2_Inheritance.AssemblyInfo.cs
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1_BasicOops\Demo2_Inheritance\obj\Debug\netcoreapp3.1\Demo2_Inheritance.dll
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1_BasicOops\Demo2_Inheritance\obj\Debug\netcoreapp3.1\Demo2_Inheritance.pdb

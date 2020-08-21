@@ -1,0 +1,10 @@
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo10_JaggedArrays\bin\Debug\netcoreapp3.1\Demo10_JaggedArrays.exe
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo10_JaggedArrays\bin\Debug\netcoreapp3.1\Demo10_JaggedArrays.deps.json
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo10_JaggedArrays\bin\Debug\netcoreapp3.1\Demo10_JaggedArrays.runtimeconfig.json
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo10_JaggedArrays\bin\Debug\netcoreapp3.1\Demo10_JaggedArrays.runtimeconfig.dev.json
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo10_JaggedArrays\bin\Debug\netcoreapp3.1\Demo10_JaggedArrays.dll
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo10_JaggedArrays\bin\Debug\netcoreapp3.1\Demo10_JaggedArrays.pdb
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo10_JaggedArrays\obj\Debug\netcoreapp3.1\Demo10_JaggedArrays.AssemblyInfoInputs.cache
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo10_JaggedArrays\obj\Debug\netcoreapp3.1\Demo10_JaggedArrays.AssemblyInfo.cs
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo10_JaggedArrays\obj\Debug\netcoreapp3.1\Demo10_JaggedArrays.dll
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo10_JaggedArrays\obj\Debug\netcoreapp3.1\Demo10_JaggedArrays.pdb

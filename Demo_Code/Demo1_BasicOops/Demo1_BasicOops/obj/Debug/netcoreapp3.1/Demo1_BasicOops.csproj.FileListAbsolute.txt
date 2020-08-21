@@ -1,0 +1,11 @@
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1_BasicOops\Demo1_BasicOops\bin\Debug\netcoreapp3.1\Demo1_BasicOops.exe
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1_BasicOops\Demo1_BasicOops\bin\Debug\netcoreapp3.1\Demo1_BasicOops.deps.json
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1_BasicOops\Demo1_BasicOops\bin\Debug\netcoreapp3.1\Demo1_BasicOops.runtimeconfig.json
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1_BasicOops\Demo1_BasicOops\bin\Debug\netcoreapp3.1\Demo1_BasicOops.runtimeconfig.dev.json
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1_BasicOops\Demo1_BasicOops\bin\Debug\netcoreapp3.1\Demo1_BasicOops.dll
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1_BasicOops\Demo1_BasicOops\bin\Debug\netcoreapp3.1\Demo1_BasicOops.pdb
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1_BasicOops\Demo1_BasicOops\obj\Debug\netcoreapp3.1\Demo1_BasicOops.csprojAssemblyReference.cache
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1_BasicOops\Demo1_BasicOops\obj\Debug\netcoreapp3.1\Demo1_BasicOops.AssemblyInfoInputs.cache
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1_BasicOops\Demo1_BasicOops\obj\Debug\netcoreapp3.1\Demo1_BasicOops.AssemblyInfo.cs
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1_BasicOops\Demo1_BasicOops\obj\Debug\netcoreapp3.1\Demo1_BasicOops.dll
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1_BasicOops\Demo1_BasicOops\obj\Debug\netcoreapp3.1\Demo1_BasicOops.pdb

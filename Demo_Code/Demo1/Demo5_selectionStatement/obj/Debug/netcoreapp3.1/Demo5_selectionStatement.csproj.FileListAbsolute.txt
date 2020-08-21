@@ -1,0 +1,10 @@
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo5_selectionStatement\bin\Debug\netcoreapp3.1\Demo5_selectionStatement.exe
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo5_selectionStatement\bin\Debug\netcoreapp3.1\Demo5_selectionStatement.deps.json
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo5_selectionStatement\bin\Debug\netcoreapp3.1\Demo5_selectionStatement.runtimeconfig.json
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo5_selectionStatement\bin\Debug\netcoreapp3.1\Demo5_selectionStatement.runtimeconfig.dev.json
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo5_selectionStatement\bin\Debug\netcoreapp3.1\Demo5_selectionStatement.dll
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo5_selectionStatement\bin\Debug\netcoreapp3.1\Demo5_selectionStatement.pdb
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo5_selectionStatement\obj\Debug\netcoreapp3.1\Demo5_selectionStatement.AssemblyInfoInputs.cache
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo5_selectionStatement\obj\Debug\netcoreapp3.1\Demo5_selectionStatement.AssemblyInfo.cs
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo5_selectionStatement\obj\Debug\netcoreapp3.1\Demo5_selectionStatement.dll
+F:\ContentDevelopment\IIHT\Wells Fargo\C#\Demo_Code\Demo1\Demo5_selectionStatement\obj\Debug\netcoreapp3.1\Demo5_selectionStatement.pdb
